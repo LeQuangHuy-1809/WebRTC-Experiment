@@ -33,7 +33,7 @@
   "_from": "rtcmulticonnection-client@",
   "dependencies": {
     "reliable-signaler": "1.0.2",
-    "socket.io": "0.9.x"
+    "socket.io": "4.7.x"
   },
   "devDependencies": {}
 }
