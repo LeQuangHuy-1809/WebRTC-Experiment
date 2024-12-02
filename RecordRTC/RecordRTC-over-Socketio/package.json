@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "recordrtc": "latest",
-    "socket.io": "^1.0.6",
+    "socket.io": "^4.7.5",
     "fluent-ffmpeg": "^1.7.2",
     "node-uuid": "^1.4.1"
   },
