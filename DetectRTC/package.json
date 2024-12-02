@@ -42,14 +42,14 @@
     "_from": "detectrtc@",
     "devDependencies": {
         "grunt": "1.5.3",
-        "grunt-cli": "0.1.13",
+        "grunt-cli": "1.5.0",
         "load-grunt-tasks": "3.4.0",
         "grunt-contrib-concat": "0.5.1",
-        "grunt-contrib-csslint": "0.5.0",
+        "grunt-contrib-csslint": "2.0.0",
         "grunt-contrib-jshint": "3.2.0",
-        "grunt-contrib-uglify": "0.11.0",
+        "grunt-contrib-uglify": "0.11.1",
         "grunt-jsbeautifier": "0.2.10",
-        "grunt-replace": "0.11.0",
+        "grunt-replace": "2.0.2",
         "grunt-contrib-clean": "0.6.0",
         "grunt-bump": "0.7.0",
         "grunt-contrib-watch": "^1.1.0"
